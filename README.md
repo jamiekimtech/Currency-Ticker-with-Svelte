@@ -1,38 +1,26 @@
-# create-svelte
+# Currency Ticker with Svelte
+ Svelte Ticker is a simple web application that fetches the current exchange rate of USD to KRW from an API and displays it on the page. The application is built using the Svelte framework and provides a minimalist interface to showcase the exchange rate. I built it based on [my other project](https://github.com/jamiekimtech/Currency-Ticker-with-Dark-Light-Mode), Currency Ticker with Dark/Light Mode with JS modules.
+## Getting Started
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+### Prerequisites
 
-## Creating a project
+- Node.js (v14 or later)
+- npm (v6 or later)
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Installation
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
+   ```bash
+   git clone https://github.com/your-username/svelte-ticker.git
+   cd svelte-ticker
+   npm install
+   npm run dev
 ```
+   This will start the application and provide a local development server accessible at local host.
+<h2>Languages and Utilities Used</h2>
 
-## Developing
+- <b>SvelteKit(1.20.4)</b><br />
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+<h2>Environments Used </h2>
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- <b>Windows 11 Pro</b> (22H2)
