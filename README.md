@@ -1,4 +1,6 @@
 # Currency Ticker with Svelte
+### [Demonstration](https://currency-ticker-with-svelte.vercel.app/)
+
  Svelte Ticker is a simple web application that fetches the current exchange rate of USD to KRW from an API and displays it on the page. The application is built using the Svelte framework and provides a minimalist interface to showcase the exchange rate. I built it based on [my other project](https://github.com/jamiekimtech/Currency-Ticker-with-Dark-Light-Mode), Currency Ticker with Dark/Light Mode with JS modules.
 ## Getting Started
 
